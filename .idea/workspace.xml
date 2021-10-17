@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa74d569-9207-46ec-87d2-74e5576a2c9a" name="Changes" comment="fix: create animation for slides (Sat, Oct 16, 2021 18:34.33)">
-      <change afterPath="$PROJECT_DIR$/cssMemSlider/mem1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssMemSlider/mem2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssMemSlider/mem3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssMemSlider/mem4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssMemSlider/mem5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssMemSlider/mem6.png" afterDir="false" />
+    <list default="true" id="fa74d569-9207-46ec-87d2-74e5576a2c9a" name="Changes" comment="fix: create animation for slides description (Sun, Oct 17, 2021 11:29.37)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cssMemSlider/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cssMemSlider/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cssMemSlider/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/cssMemSlider/style.css" afterDir="false" />
@@ -44,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634370149052</updated>
       <workItem from="1634370150593" duration="22553000" />
-      <workItem from="1634458295642" duration="874000" />
+      <workItem from="1634458295642" duration="4349000" />
     </task>
     <task id="LOCAL-00001" summary="init: start cssMemSlider (Sat, Oct 16, 2021 11:16.57)">
       <created>1634372237924</created>
@@ -67,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634398477956</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix: create animation for slides description (Sun, Oct 17, 2021 11:29.37)">
+      <created>1634459395122</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634459395122</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +90,7 @@
     <MESSAGE value="init: start cssMemSlider (Sat, Oct 16, 2021 11:16.57)" />
     <MESSAGE value="fix: add index layout (Sat, Oct 16, 2021 11:50.55)" />
     <MESSAGE value="fix: create animation for slides (Sat, Oct 16, 2021 18:34.33)" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: create animation for slides (Sat, Oct 16, 2021 18:34.33)" />
+    <MESSAGE value="fix: create animation for slides description (Sun, Oct 17, 2021 11:29.37)" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: create animation for slides description (Sun, Oct 17, 2021 11:29.37)" />
   </component>
 </project>
